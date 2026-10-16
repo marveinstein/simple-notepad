@@ -1,4 +1,4 @@
-# Notepad
+# Simple Notepad
 
 A lightweight desktop text editor built with Python and Tkinter for quick note-taking and editing.
 
